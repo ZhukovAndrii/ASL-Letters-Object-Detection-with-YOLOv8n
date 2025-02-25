@@ -114,7 +114,7 @@ The model fine-tuning process is implemented in Google Colab. Below is a simplif
    -  cd your-repo
    -  pip install -r requirements.txt
 
-   **Ensure best.pt is in the same directory as realtime_detection.py**
+   **Ensure best2.pt is in the same directory as realtime_detection.py**
 
    -  python3 realtime_detection.py
 
